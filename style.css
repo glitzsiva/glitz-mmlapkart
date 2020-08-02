@@ -1,0 +1,64 @@
+.contact{
+    background-color: #4FCE5D !important;
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+body{
+    font-family: 'Nunito', sans-serif !important;
+}
+.contact i{
+    color: white;
+    background-color: #4FCE5D;
+}
+.nav-link,.navbar-brand,.fa-bars{
+    color: white !important;
+    font-weight: 600;
+}
+.navbar-toggler{
+    border: 1px solid white !important;
+}
+.nav-link:hover,.navbar-brand:hover{
+    color: #3da9fe;
+}
+.contact1{
+    font-size: .8rem;
+    
+}
+.social ul li a{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.social ul{
+    list-style-type: none;
+}
+.fb{
+    background-color: #1094F4;
+    color:white;
+}
+.fb:hover{
+    color: #1094F4;
+    background-color: white;
+}
+.insta{
+    color: white;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+.insta:hover{
+    color: #d6249f;
+    background: white !important;
+}
+.wts-up{
+    background-color: #4FCE5D;
+    color: white;
+}
+.wts-up:hover{
+    color: #4FCE5D !important;
+    background-color: white;
+}
+.card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.text-success{
+    color: white !important;
+}
